@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 test
+=======
+test234234
+testgithub
+>>>>>>> testBranch
